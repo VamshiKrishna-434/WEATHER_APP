@@ -1,0 +1,12 @@
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Thermometer">Thermometer </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Barometer">Barometer </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Hygrometer">Hygrometer </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Anemometer">Anemometer </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Pyranometer">Pyranometer </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Rain_gauge">Rain gauge </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Wind_sock">Wind sock </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Wind_vane">Wind vane </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Disdrometer">Disdrometer </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Transmissometer">Transmissometer </a></li></td>
+ <tr><td><img src="" alt="" height="100px" width="100px"></td><td><li><a href=" https://en.wikipedia.org/wiki/Ceilometer">Ceilometer </a></li></td>
+

@@ -1,0 +1,27 @@
+.body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.body1 {
+    background-image: url(bg4.avif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: black;
+}
+.h1{
+    
+    font-size: 30px;
+    font-variant: inherit;
+    text-align: center;
+}
+.table2{
+    table-layout: auto;
+    column-gap: 100px;
+}
+.div{
+    
+    margin-left: 450px;
+}
